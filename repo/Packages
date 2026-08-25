@@ -1,0 +1,21 @@
+Package: com.pawxed.applock
+Name: applock
+Version: 1.1alpha
+Architecture: iphoneos-arm64
+Maintainer: pawxed
+Filename: debs/com.pawxed.applock_1.1alpha_iphoneos-arm64
+Size: 19006
+Description: better native-like iOS 18 applock alternative that are free and open source, what else can I say
+Author: pawxed
+Section: Tweaks
+
+Package: com.pawxed.applock
+Name: applock
+Version: 1.1alpha
+Architecture: iphoneos-arm64e
+Maintainer: pawxed
+Filename: debs/com.pawxed.applock_1.1alpha_iphoneos-arm64e
+Size: 17788
+Description: better native-like iOS 18 applock alternative that are free and open source, what else can I say
+Author: pawxed
+Section: Tweaks
