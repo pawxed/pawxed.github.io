@@ -1,8 +1,8 @@
-Origin: pawxed
-Label: pawxed
+Origin: pawxed repo
+Label: pawxed repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: uh my repo
+Description: cool repo with cool stuff
