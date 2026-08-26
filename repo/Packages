@@ -3,21 +3,27 @@ Name: applock
 Version: 1.1alpha
 Architecture: iphoneos-arm64
 Maintainer: pawxed
-Filename: ./debs/com.pawxed.applock_1.1alpha_iphoneos-arm64
+Filename: ./debs/com.pawxed.applock_1.1alpha_iphoneos-arm64.deb
 Size: 19006
 Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, preferenceloader
 Description: better native-like iOS 18 applock alternative that are free and open source, what else can I say
 Author: pawxed
 Section: Tweaks
+MD5sum: b44180c0e1acfb5074ce806fa506c046
+SHA1: 789e687955f2583fbd57abe258a39456d4af3067
+SHA256: 5306e204350a9f4ad493f9a18059d3a45c8dcf5fe563742c74d344cc161f4df3
 
 Package: com.pawxed.applock
 Name: applock
 Version: 1.1alpha
 Architecture: iphoneos-arm64e
 Maintainer: pawxed
-Filename: ./debs/com.pawxed.applock_1.1alpha_iphoneos-arm64e
+Filename: ./debs/com.pawxed.applock_1.1alpha_iphoneos-arm64e.deb
 Size: 17788
 Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, preferenceloader
 Description: better native-like iOS 18 applock alternative that are free and open source, what else can I say
 Author: pawxed
 Section: Tweaks
+MD5sum: 4afaafd7b4f47337b0309f82309345a0
+SHA1: d969d1ed298db45937aece53af805f10e7f15515
+SHA256: 144aa328a71728e738a554fde7eb8d9517fd9ffc7e04c4ee95b39b519adf76f7
