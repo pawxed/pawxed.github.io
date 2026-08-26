@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Monospace, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #32302f; 
+}
+
+body {
+  background-image: url("paws.png");
+  background-repeat: xy;
+  background-size: 144px 144px;
+  animation: slide 30s linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes slide {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -1000px -1000px; 
+  }
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+h1 {
+  text-align: center;
+  color:  #fbf1c7;
+  width: 30%;
+  margin: 0px;
+  padding: 21px 0;
+}
+
+h2, h3, h4 {
+  text-align: left;
+  color: #1d2021;
+  width: 100%;
+  margin: 0;
+  padding: 0px 13;
+}
+
+g1 {
+  text-align: center;
+  color: #1d2021;
+  width: 30%;
+  margin: 0;
+  padding: 21px 0;
+}
+
+.separator {
+  height: 7px;
+}
+
+nav ul {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 67px;
+  left: 100px;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+
+nav a {
+  background-color: #32302f;
+  color: #fbf1c7;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+article {
+  text-align: left;
+  padding: 10px;
+  width: 60%;
+  background-color: #fbf1c7;
+  color: #1d2021;
+  margin-top: 0px;
+}
+
+@media (max-width: 768px) {
+  h1,
+  article {
+    width: 90%;
+  }
+
+  nav ul {
+    list-style-type: none;
+    position: static;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px 0;
+    margin: 0;
+    gap: 10px;
+  }
+}
+
+nav a {
+  text-decoration: none;
+  transition: transform 0.3s;
+}
+
+a:hover {
+  text-decoration: underline;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 60.33%;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 0px;
+  font-family: Monospace;
+  color:  #fbf1c7;
+}
