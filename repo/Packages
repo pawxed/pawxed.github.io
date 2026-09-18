@@ -46,7 +46,7 @@ SHA256: a35884c5c7c1a7bdcf34165811e53138d2982ec9085dcef21d48da4c4a16015
 Package: pawxed.setthead
 Name: setthead
 Version: 0.0.1a
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: pawxed
 Filename: ./debs/pawxed.setthead_0.0.1a_iphoneos-arm64.deb
 Size: 35894
