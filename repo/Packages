@@ -34,14 +34,14 @@ Version: 0.0.1a
 Architecture: iphoneos-arm64
 Maintainer: pawxed
 Filename: ./debs/pawxed.setthead_0.0.1a_iphoneos-arm64.deb
-Size: 35610
+Size: 28532
 Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, preferenceloader
 Description: adds iOS 18 settings header
 Author: pawxed
 Section: Tweaks
-MD5sum: 1cf8ab8636db8040a78d73f332600358
-SHA1: 20a4f9e6482d65b65cedfe1db4c2d0a6c71ce418
-SHA256: a35884c5c7c1a7bdcf34165811e531f38d2982ec9085dcef21d48da4c4a16c15
+MD5sum: 6558e10c2d3d2ab1e76e7fdf28726ddc
+SHA1: 91fb53af6526f7fa57f1bacaa25903e116ac24cf
+SHA256: e89f269fd53d25ffb0d11023cedd49fc31c226b16be77d8f5ba0147c8e853561
 
 Package: pawxed.setthead
 Name: setthead
