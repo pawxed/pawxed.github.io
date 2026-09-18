@@ -39,8 +39,7 @@ Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, preferenceloader
 Description: adds iOS 18 settings header
 Author: pawxed
 Section: Tweaks
-MD5sum: 
-1cf8ab8636db8040a78d73£332600358
+MD5sum: 1cf8ab8636db8040a78d73£332600358
 SHA1: 20a4f96482d65b65cedfeldb4c2d0a6c71ce418
 SHA256: a35884c5c7c1a7bdcf34165811e53138d2982ec9085dcef21d48da4c4a16015
 
@@ -55,7 +54,6 @@ Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, preferenceloader
 Description: adds iOS 18 settings header
 Author: pawxed
 Section: Tweaks
-MD5sum: 
-691ded8bed1243f8e6ef021333f8dc09
+MD5sum: 691ded8bed1243f8e6ef021333f8dc09
 SHA1: ecdb551dc72082bfc9b9696761bba9963cc8c664
 SHA256: ef9b9908619f4b48d4e75655f62206c84fb5f56975e180a37dbfa2ca2aaf1f85
