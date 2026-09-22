@@ -57,3 +57,33 @@ Section: Tweaks
 MD5sum: b0a44432321e55e1cbea6a4e88939635
 SHA1: a728e51aef0136f458e5b5ec6159dc1fbce6ab0a
 SHA256: 2d42a6cc7b8a1af846caf73751039fa7b8a2ce96df0e70a96adfdef454a234ad
+
+Package: pawxed.ccock18
+Name: ccock18
+Version: 0.0.4a
+Architecture: iphoneos-arm64
+Maintainer: pawxed
+Filename: ./debs/pawxed.ccock18_0.0.4a_iphoneos-arm64.deb
+Size: 168494
+Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, com.opa334.ccsupport, preferenceloader
+Description: iOS 18 like control center, well not an exact replica for sure
+Author: pawxed
+Section: Tweaks
+MD5sum: 28618db5637e264b77a8d42de238a199
+SHA1: eda199267181bb7f8904b276ef9a42e1f08f0cc8
+SHA256: e3fe8e2ef3abf7cd0c4e05f2c1dfaad0f03f10418bf02e060a46a1b765cd71d9
+
+Package: pawxed.ccock18
+Name: ccock18
+Version: 0.0.4a
+Architecture: iphoneos-arm64e
+Maintainer: pawxed
+Filename: ./debs/pawxed.ccock18_0.0.4a_iphoneos-arm64e.deb
+Size: 166772
+Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, com.opa334.ccsupport, preferenceloader
+Description: iOS 18 like control center, well not an exact replica for sure
+Author: pawxed
+Section: Tweaks
+MD5sum: 14fd8b2605e41edce8dc20c0a2993c30
+SHA1: 9d28da9096d46dd98f3906dfe7a1e6874509364b
+SHA256: babf7636a0567e97695ef3cbe45c1c92013730e6663c824bd41ae93016285c73
